@@ -5,7 +5,7 @@
 Lean Modern React 16.8+ Including Hooks, Context API, Full Stack MERN & Redux By Building Real Life Projects
                                   { // udemy . com / modern - react - front - to - back/}
                               Free Trial at {//openpirate . org / torrent / 34270963 / Udemy_-_React_Front_To_Back_2019}
-                              More Free Trials {// openpirate . org / torrent /34270963 / Udemy_-_React_Front_To_Back_2019}
+                              More Free Trials {openpirate . org / user / tuts756 /}
 
                     Jumped ahead to after converting Class to Hooks to get a taste of Context API, Reducer Method...
 
